@@ -1,4 +1,5 @@
-#traveling-yuk - application untuk memudahkan traveling
+#traveling-yuk - application yang dapat memudahkan untuk traveling
+
 Teknologi yang di gunakan :
 - Springboot
 - Mysql
