@@ -22,4 +22,4 @@ Langkah-langkah pengunaan:
 - selanjutan gunakan fitur sesuai yang kita inginkan dengan meng hit rest api tersebut
 - jika berhasil data akan masuk ke database di mysql kita
 
-masih banyaknya kekurangan didalam pembuatan aplikasi ini , besar harapan saya jika ada yang berkenan memberikan kritik dan saran, terimakasih
+saya menyadari masih banyaknya kekurangan didalam pembuatan aplikasi ini , besar harapan saya jika ada yang berkenan memberikan kritik dan saran, terimakasih
