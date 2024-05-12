@@ -1,6 +1,7 @@
 #traveling-yuk - application yang dapat memudahkan untuk traveling
 
 Teknologi yang di gunakan :
+- maven
 - Springboot
 - Mysql
 - Jdk 18
